@@ -7,8 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
+        <module name="goods-server" />
         <module name="minilife" />
+        <module name="user-server" />
+        <module name="zuul-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="user-server" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
