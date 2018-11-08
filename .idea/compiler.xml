@@ -9,11 +9,13 @@
         <module name="eureka-server" />
         <module name="goods-server" />
         <module name="minilife" />
+        <module name="test-server" />
         <module name="user-server" />
         <module name="zuul-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="goods-server" target="1.8" />
       <module name="user-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>

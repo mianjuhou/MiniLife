@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/zuul-server/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../sourcecloud/MiniLife/user-server/pom.xml" />
         <option value="$PROJECT_DIR$/../../../../sourcecloud/MiniLife/goods-server/pom.xml" />
+        <option value="$PROJECT_DIR$/test-server/pom.xml" />
       </list>
     </option>
   </component>
